@@ -28,3 +28,6 @@ i) testLogin()
 ii) testTopup()
 iii) testPay()
 
+Test Results
+==============
+Have attached screenshots in the word documents for front end and backend with all the test cases.
